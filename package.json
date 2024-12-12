@@ -1,0 +1,9 @@
+{
+  "name": "contract-management-tool",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "version": "1.0.0"
+}
